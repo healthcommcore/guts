@@ -1,0 +1,54 @@
+[11-May-2012 13:41:25] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/test_script.php on line 7
+[11-May-2012 13:41:47] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 17
+[11-May-2012 13:41:57] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 17
+[11-May-2012 13:43:06] PHP Warning:  require_once(helper.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 6
+[11-May-2012 13:43:06] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'helper.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 6
+[11-May-2012 13:43:34] PHP Warning:  require(helper.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 6
+[11-May-2012 13:43:34] PHP Warning:  require(helper.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 6
+[11-May-2012 13:43:34] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'helper.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 6
+[11-May-2012 13:44:05] PHP Fatal error:  Call to undefined function  isvaliduser() in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 21
+[11-May-2012 13:45:38] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 26
+[11-May-2012 13:46:00] PHP Fatal error:  Call to undefined function  assembleperson() in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 24
+[11-May-2012 13:46:34] PHP Fatal error:  Call to undefined function  isvaliduser() in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 21
+[11-May-2012 13:58:22] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 33
+[11-May-2012 13:59:00] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 34
+[11-May-2012 13:59:04] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 34
+[11-May-2012 13:59:06] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 34
+[11-May-2012 14:01:36] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 34
+[11-May-2012 14:01:39] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 34
+[11-May-2012 14:05:13] PHP Fatal error:  Call to a member function query() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/test_script.php on line 8
+[11-May-2012 14:07:14] PHP Fatal error:  Call to undefined function  getdb() in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/test_script.php on line 7
+[11-May-2012 14:14:40] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (HY000/2005): Unknown MySQL server host 'gutsweb.org/new_guts_site' (2) in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/helper.php on line 9
+[11-May-2012 14:49:06] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'nhs2_hcc'@'localhost' (using password: YES) in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/helper.php on line 9
+[11-May-2012 14:58:46] PHP Warning:  Invalid argument supplied for foreach() in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/test_script.php on line 12
+[11-May-2012 14:59:24] PHP Warning:  Invalid argument supplied for foreach() in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/test_script.php on line 12
+[11-May-2012 15:00:06] PHP Warning:  Invalid argument supplied for foreach() in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/test_script.php on line 12
+[11-May-2012 15:00:34] PHP Warning:  Invalid argument supplied for foreach() in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/test_script.php on line 13
+[11-May-2012 15:02:31] PHP Warning:  Invalid argument supplied for foreach() in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/test_script.php on line 13
+[11-May-2012 15:06:29] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 33
+[11-May-2012 15:09:50] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 36
+[11-May-2012 15:09:53] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 36
+[11-May-2012 15:10:44] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 36
+[11-May-2012 15:10:48] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 36
+[11-May-2012 15:11:46] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 48
+[11-May-2012 15:13:03] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 43
+[11-May-2012 15:15:32] PHP Fatal error:  Call to a member function query() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 44
+[11-May-2012 15:16:50] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 17
+[11-May-2012 15:17:16] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 17
+[11-May-2012 15:17:33] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 17
+[11-May-2012 15:28:17] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 8
+[14-May-2012 16:14:40] PHP Fatal error:  Call to undefined function  lookupactivities() in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 57
+[14-May-2012 16:15:05] PHP Fatal error:  Call to a member function query() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 66
+[14-May-2012 16:15:47] PHP Fatal error:  Call to a member function query() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 66
+[14-May-2012 16:15:50] PHP Fatal error:  Call to a member function query() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 66
+[14-May-2012 16:16:12] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 70
+[14-May-2012 16:21:13] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 71
+[14-May-2012 16:22:26] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 72
+[14-May-2012 16:22:28] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 72
+[14-May-2012 16:23:59] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 68
+[14-May-2012 16:24:00] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 68
+[14-May-2012 16:24:20] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 68
+[14-May-2012 16:25:29] PHP Fatal error:  Cannot access empty property in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 58
+[14-May-2012 16:58:47] PHP Fatal error:  Cannot access empty property in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 57
+[14-May-2012 17:01:31] PHP Fatal error:  Cannot access empty property in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/person.php on line 58
+[14-May-2012 17:08:16] PHP Fatal error:  Call to private method Person::assembleActivities() from context 'JumiViewApplication' in /home/nhs2/public_html/GUTS/new_guts_site/components/com_jumi/files/test_script.php on line 10

@@ -1,0 +1,29 @@
+/**
+ * @package   Momentum Template - RocketTheme
+ * @version   1.5 March 19, 2012
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2012 RocketTheme, LLC
+ * @license   http://www.rockettheme.com/legal/license.php RocketTheme Proprietary Use License
+ */
+
+.component-block, .rt-container, #rt-header, #rt-copyright, #rt-logo, #rt-bg-surround, #rt-bg-image {zoom: 1;}
+#rt-header {padding: 15px 0;margin-bottom: 40px;}
+.component-block {padding: 25px;}
+.page-overlay-light .component-block {background: #fff;}
+.page-overlay-dark .component-block {background: #303030;}
+.item-page, div.home_findings{border:#B2CCDF 10px solid;}
+div.home_findings img.from_study{margin-right:4px; margin-left:-36px;}
+#header_home #rt-logo-surround{height:121px;}
+#header_inside #rt-logo-surround{height:91px;}
+#rt-navigation, #header_home #rt-logo-surround, #header_inside #rt-logo-surround{margin-top:-3px;}
+#rt-topbar{width:960px;} 
+#menutop .menu{background:none}
+#user_login table .table_data {background:url("../images/statboxmedlg.gif") -165px 0 no-repeat;}
+#take_survey h2{font-family: 'OpenSansExtraBold'; color:#DB5224;}
+#rt-footer .rt-container{margin-top:20px;}
+div.home_findings{position:relative;}
+#user_login table td{border-collapse:collapse; border-spacing:0;}
+.rt-container .rt-grid-3{top:0; right:0; position:absolute; width:100%; height:100%;}
+.rt-container .rt-pull-9{position:absolute;}
+#rt-sidebar-a .menu li li, #rt-sidebar-a .menu li li a {padding:0;}
+#rt-sidebar-a .menu li li a span{padding:0; margin:-20px 0;}

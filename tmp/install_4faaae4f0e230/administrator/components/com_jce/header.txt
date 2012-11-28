@@ -1,0 +1,14 @@
+/**
+ * JCE Component 	2.0.21
+ * @package 		JCE
+ * @url				http://www.joomlacontenteditor.net
+ * @copyright 		Copyright (C) 2006 - 2011 Ryan Demmer. All rights reserved
+ * @license 		GNU/GPL Version 2 or later - http://www.gnu.org/licenses/gpl-2.0.html
+ * @date			15 February 2012
+ * This version may have been modified pursuant
+ * to the GNU General Public License, and as distributed it includes or
+ * is derivative of works licensed under the GNU General Public License or
+ * other free or open source software licenses.
+ *
+ * NOTE : Javascript files have been compressed for speed and can be uncompressed using http://jsbeautifier.org/
+ */
