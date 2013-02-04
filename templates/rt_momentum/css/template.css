@@ -323,12 +323,12 @@ body #gantry-viewswitcher {z-index: 100;right:50%;position:relative;top:inherit;
 #rt-body-surround #rt-sidebar-a .menu li.active li.active a{font-size:120%;}
 
 div.item-page{margin-bottom:30px;}
-div.item-page, div.home_findings{
+div.item-page, div.home_findings{padding: 25px 40px 3px 40px;}
+div.item-page, div.home_findings, #factoid_rotator{
 	background:#CDE4F4;
 	box-shadow: 0 0 25px #B2CCDF;
 	-moz-box-shadow: 0 0 25px #B2CCDF;
 	-webkit-box-shadow: 0 0 25px #B2CCDF;
-	padding: 25px 40px 3px 40px ;
 }
 
 #rt-footer .rt-block{padding:0 0 30px 0;}
@@ -389,6 +389,16 @@ div.home_left_col{}
 
 .custom_home_header img{}
 .custom_home_header{}
+
+/*HOME: Factoid rotator*/
+#factoid_rotator{background:#D2E7F5; margin-right:30px;}
+#factoid_rotator p.title{background:#426872; display:block; height:40px; width:100%;}
+#factoid_rotator img{}
+div.factoid{padding:5px 40px;}
+div.factoid a{font-family:'SourceSansProBold'; font-size:2.6em; letter-spacing:-.01em; line-height:1.1em;}
+div.factoid p.source{font-family:'SourceSansProItalic'; font-size:1.3em; line-height:1.3em; margin-top:10px;}
+.hidden{display:none;}
+
 
 div.home_findings{padding-top:15px; margin:-15px 20px 20px -10px; z-index:1000;}
 div.home_findings .clear{clear:both;}
